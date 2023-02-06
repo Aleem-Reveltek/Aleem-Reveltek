@@ -5,7 +5,7 @@ I'm a Business Development Officer, I bring a wealth of experience in identifyin
 
 Skills: HTML / CSS/ Time Management/ Communication/Microsoft Visual Studio Code/ GitHub/Agile Methodologies/Negotiation skill/GIMP/Affinity Photo/ Adobe Photoshop/Talent Management/Teamwork/Coaching/ HR Management/Graphic Design/ Customer Service Operations/ Office 365
 
-- 🔭 I’m currently working on Jira software 
+- 🔭 I’m currently working on RevelTek
 - 🌱 I’m currently learning Agile Methodologies 
 - 💬 Ask me about HR Management 
 
