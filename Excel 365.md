@@ -23,3 +23,37 @@ D --> E[Use formulas]
 E --> F[Create a chart]
 F --> G[Save your spreadsheet]
 ```
+
+# Excel Basics
+
+Getting started with Excel is easy, but it's important to understand some basic concepts first.
+
+## Cells
+
+In Excel, the spreadsheet is made up of individual cells, which are the squares where you enter data. The columns are labeled with letters (A, B, C, etc.), and the rows are numbered (1, 2, 3, etc.).
+
+## Range
+
+If you select a group of cells, it is called a range. You can perform operations on the range as a whole, such as applying formatting or performing calculations.
+
+## Zoom
+
+You can adjust the zoom level of the sheet by clicking on the View tab and using the Zoom options. This can be helpful when working with large or complex spreadsheets.
+
+## Adjusting Cell Size
+
+To adjust the size of a cell, click on the line between two column or row headers and drag it to the desired size. This can be helpful when you need to fit more content into a cell, or when you want to make a cell smaller to fit in more data on the sheet.
+
+## Editing Cells
+
+To edit a cell, simply click on it and start typing. You can also double-click on a
+
+```mermaid
+graph LR
+    A[Cell] --> B[Range]
+    B --> C[Zoom]
+    C --> D[Adjust Cell Size]
+    D --> E[Edit Cells]
+    E --> F[Borders]
+    F --> G[Add Rows]
+```
