@@ -22,3 +22,11 @@ F --> G[Write your code and save it]
 G --> H[Run your code]
 H --> I[View output in Output window]
 ```
+
+
+# Running Python in Visual Studio Code
+
+1. Open VS Code and select the Terminal from the top menu.
+2. Navigate to the directory where your Python file is located using the `cd` command.
+3. Run your Python code by typing `python` followed by the name of your file. For example, if your file is named `hello.py`, type `python hello.py` and press Enter.
+4. The output of your code should appear in the Terminal window.
